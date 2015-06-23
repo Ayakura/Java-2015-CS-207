@@ -26,4 +26,4 @@ public class DeleteCharacters extends ConsoleProgram {
 		}
 		return result;
 	}
-}
+} 
